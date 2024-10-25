@@ -68,7 +68,7 @@ runqemu qemux86-64 nographic
 Användarnamn: root
 
 
-### 7. Kör Hello Internet i Qemu
+### 6. Kör Hello Internet i Qemu
 
 ```bash
 # Kör programmet
@@ -89,3 +89,7 @@ systemctl start hello-internet
 # Se loggen för tjänsten
 journalctl -u hello-internet
 ```
+
+### 7. Resultat
+
+![webhook-prtsc](https://github.com/user-attachments/assets/a9b3b0d0-4021-4040-a9bc-eb349a6db4e7)
