@@ -57,7 +57,7 @@ Detta tar långt tid. Bitbake cachar bra så det går att avbryta med `ctrl+c`.
 
 ```bash
 
-# Bygg en minimal Linux med Bitbake och custom-distro (hello world)
+# Bygg en minimal Linux med Bitbake och custom-distro (hello internet)
 DISTRO=custom-distro bitbake -k core-image-minimal
 
 ```
