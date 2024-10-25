@@ -1,6 +1,6 @@
 # Yocto Qemu SystemD Hello Internet uppgift
 
-Forkat repo, YoctoRPI, som korrigerats för att utföra uppgiften Hello internet som avnänder systemD för att start programmet när qemu startas och skickar meddelandet "Hello, Internet!" med wget till webhook.site.
+Forkat repo, YoctoRPI, som korrigerats för att utföra uppgiften Hello internet som avnänder systemD för att starta programmet när qemu startas och skickar meddelandet "Hello, Internet!" med wget till webhook.site.
 
 ## Korrigerade Filer
 
