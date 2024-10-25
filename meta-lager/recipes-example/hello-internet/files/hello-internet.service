@@ -1,0 +1,11 @@
+[Unit]
+Description=Hello Internet Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/hello-internet
+Type=simple
+
+
+[Install]
+WantedBy=multi-user.target
