@@ -5,7 +5,15 @@ Forkat repo, YoctoRPI, som korrigerats för att utföra uppgiften Hello internet
 ## Korrigerade Filer
 
 ```
+# Borttaget
+meta-lager/recipes-example/hello-internet/files/hello-world.c
+meta-lager/recipes-example/hello-internet/files/hello-world.service
+meta-lager/recipes-example/hello-internet/hello-world_0.1.bb
+
+# Ändrad
 meta-lager/conf/disto/custom-distro.conf
+
+# Skapat
 meta-lager/recipes-example/hello-internet/files/hello-internet.c
 meta-lager/recipes-example/hello-internet/files/hello-internet.service
 meta-lager/recipes-example/hello-internet/hello-internet_0.1.bb
