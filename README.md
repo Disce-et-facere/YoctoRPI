@@ -58,7 +58,7 @@ DISTRO=custom-distro bitbake -k core-image-minimal
 
 ```bash
 
-# Kör bygget emulerat med Qemu NoGraphic
+# Kör bygget emulerat med Qemu
 runqemu qemux86-64 nographic
 
 ```
