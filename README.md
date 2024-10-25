@@ -53,7 +53,7 @@ source /yocto/sources/poky/oe-init-build-env /yocto/build
 
 ### 3. Bygg en egen Linux
 
-Detta tar långt tid. Bitbake cachar bra så det gåt att avbryta med `ctrl+c`.
+Detta tar långt tid. Bitbake cachar bra så det går att avbryta med `ctrl+c`.
 
 ```bash
 
